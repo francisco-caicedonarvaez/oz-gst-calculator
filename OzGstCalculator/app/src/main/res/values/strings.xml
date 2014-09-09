@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Oz GST Calculator</string>
+    <string name="app_author">Francisco A. Caicedo Narvaez</string>
+
+    <string name="title_activity_welcome">Oz GST Calculator</string>
+    <string name="welcome_content">OZ GST Calculator</string>
+    <string name="welcome_button">Continue</string>
+
+
+    <string name="amount_textview">Amount:</string>
+    <string name="sub_total_textview">Sub Total:</string>
+    <string name="gst_textview">GST:</string>
+    <string name="total_textview">Total:</string>
+    <string name="add_gst_button">Add GST</string>
+    <string name="calculate_gst_button">GST Component</string>
+    <string name="gst_rate">10% GST Rate</string>
+    <string name="reset_button">RESET</string>
+
+
+</resources>
